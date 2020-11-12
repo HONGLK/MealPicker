@@ -1,4 +1,4 @@
-This is Lunch Picker v1.0
+This is Meal Picker v1.0
 
 ------------------------------
 
