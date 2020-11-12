@@ -1,0 +1,50 @@
+1.平台
+  -API: JS/NodeJS
+  -Web: 待定
+  -IOS: 待定
+  -Android: 待定
+
+2.資訊交換
+  -JSON格式
+  -Restful API
+
+3.詳細功能
+  -GPS定位，可尋找周遭餐廳、小攤、飲料店
+  -以條件搜尋餐廳
+  -客製化的午餐選擇(可用餐廳類型、距離、價錢來決定)
+  -使用者論壇/使用者評論
+
+4.Data collection
+  -依使用者年紀，記載使用者愛吃/喝的項目
+  -使用者的飲食習慣，推薦餐點
+
+5.如何營利
+  -橫版廣告置入
+  -提供店家廣告服務
+
+--------------------------------------------------------------------------
+
+1.Platform
+  -API: JS/NodeJS
+  -Web: TBD
+  -IOS: TBD
+  -Android: TBD
+
+2.Information exchange
+  -Json structure
+  -Restful API
+
+3.Utils detail
+  -GPS Location, Search near by vendors, restaurants, beverage
+  -Restaurant Query,Sort
+  -Custom Lunch Picker(can choose restaurant type, distance, price)
+  -User forum/User's comment
+
+4.Data collection
+  -According to user's age, write down what they like to eat/drink.
+  -eating habbits, for meal recommand.
+    
+
+5.How to earn money
+  -horizined AD imbed
+  -vendors, Restaurents AD
